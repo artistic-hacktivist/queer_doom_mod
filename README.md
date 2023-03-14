@@ -9,3 +9,5 @@ Simply open the wad with the editor of your choice. I recommend slade3 as it wor
 
 HOW TO PLAY:
 I'm assuming you have experience with doom modding. Simply load the mod with gzdoom as you would any other.
+
+For up to date development info, visit the blog section of my website https://artistic-hacktivist.github.io/ 
